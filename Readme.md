@@ -18,10 +18,10 @@ sebuah program sederhana bernama stopwatch yang dibuat dengan javascript
 
 ### live demo
 
-[tekan ini untuk mencoba live demo program tersebut](https://candradwicahyo.github.io/stopwatch)
+[tekan ini untuk mencoba live demo](https://candradwicahyo.github.io/stopwatch)
 
 ### preview
 
-
+![result](https://github.com/candradwicahyo/stopwatch/blob/master/20220503_173120.jpg)
 
 > dibuat oleh **candra dwi cahyo**
